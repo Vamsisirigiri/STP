@@ -7262,7 +7262,7 @@ nav.navigation.navbar.navbar-default.original {
 
 nav.navigation.navbar.navbar-default.Menubar.original {
   background: #01315c;
-  border-bottom: 3px solid #71c002;
+  
 }
 
 .navbar-brand {
@@ -7523,12 +7523,13 @@ a.login {
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 0px;
     box-shadow: 1px 1px 3px 2px #786b6bd9;
-    width: 153%;
+    width: 118% !important;
     height: 33px;
     font-weight: 600 !important;
     padding: 6px 25px !important;
     font-size: 18px !important;
     font-family: 'Poppins';
+    color: #fff !important;
 }
 a.login {
   position: absolute;
